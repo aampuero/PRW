@@ -1,0 +1,6 @@
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\Alessandro\\Documents\\gitignore_global.txt
+[user]
+	name = Alessandro-PC\\Alessandro
+	email = alessandro_ap_31-5@hotmail.com
